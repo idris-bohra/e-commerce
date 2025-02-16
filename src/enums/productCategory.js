@@ -1,0 +1,22 @@
+export const productCategory = [
+    'Electric',
+    'Clothes',
+    'Home & Kitchen',
+    'Books',
+    'Toys & Games',
+    'Health & Beauty',
+    'Sports & Outdoors',
+    'Automotive',
+    'Jewelry',
+    'Office Supplies',
+    'Pet Supplies',
+    'Garden & Outdoor',
+    'Music & Instruments',
+    'Movies & TV',
+    'Grocery',
+    'Baby Products',
+    'Shoes',
+    'Tools & Home Improvement',
+    'Video Games',
+    'Furniture'
+];
